@@ -1,6 +1,6 @@
 public Class sample
 {
-//testing purpose
+//testing for demo purpose
 Public List<Account> CreateAccount(String s, String p){
 
 List<Account> a = new List<Account>();
