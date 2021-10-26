@@ -1,4 +1,4 @@
-public Class AccountCreation
+public Class test
 {
 //test 1 from org
 //test 2 from github
