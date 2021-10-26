@@ -1,9 +1,7 @@
-public Class AccountCreation
+public Class ContactCreation
+//test retrieve to org
 {
-//test 1 from org
-//test 2 from github
-//test 3 from github
-//test 4 checking
+//test 3 on github
 Public List<Account> CreateAccount(String s, String p){
 
 List<Account> a = new List<Account>();
@@ -11,6 +9,7 @@ List<Account> a = new List<Account>();
 for(Account acc:a)
 
 {
+System.debug('Added in github');
 
 acc.Name=s;
 
